@@ -1,70 +1,27 @@
 {
   "main": {
-    "id": "61d19c995706f7b9",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "7a960bd563c8ac8a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1586501164e5ad",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set Up Workstation.md",
+                "file": "Trello Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Up Workstation"
-            }
-          },
-          {
-            "id": "a2a6f3b63b9e9e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Do's and Don'ts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Do's and Don'ts"
-            }
-          },
-          {
-            "id": "fc69bc492325707b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day to Day Basis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day to Day Basis"
-            }
-          },
-          {
-            "id": "23495ba8a9e7bf49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Procedure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Procedure"
+              "title": "Trello Workflow"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "!How To Use/How To Use This App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for How To Use This App"
             }
           },
           {
@@ -155,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "!How To Use/How To Use This App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from How To Use This App"
             }
           },
           {
@@ -206,17 +165,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "23495ba8a9e7bf49",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Day to Day Basis.md",
+    "Git Workflow.md",
+    "Trello Workflow.md",
     "Project Procedure.md",
-    "Do's and Don'ts.md",
-    "Images",
+    "!How To Use/How To Use This App.md",
+    "!Tags/developer sop.md",
+    "!Tags/how to use.md",
     "Set Up Workstation.md",
-    "Images/Pasted image 20250422204500.png",
+    "!How To Use/Obsidian Hotkeys.md",
+    "!How To Use",
+    "Do's and Don'ts.md",
+    "Day to Day Basis.md",
+    "!Template/Document-Template.md",
+    "!Template",
+    "!Tags",
+    "New Text Document.txt",
+    "!Images",
+    "!Images/Pasted image 20250422204500.png",
     "Welcome.md"
   ]
 }

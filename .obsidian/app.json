@@ -3,5 +3,6 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "showInlineTitle": false,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "alwaysUpdateLinks": true
 }
