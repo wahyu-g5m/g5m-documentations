@@ -30,3 +30,6 @@ Using your @game5mobile's email:
 3. Sign up for Discord account (optional, you can use your personal Discord account)
 
 Inform your **Bitbucket** username, **Trello** username, and your **Whatsapp** number to the lead programmer
+___
+2025-04-23 || 19:00
+tag: [[developer sop]]
