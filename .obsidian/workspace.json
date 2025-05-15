@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trello Workflow.md",
-                "mode": "source",
+                "file": "!How To Use/How To Use This App.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trello Workflow"
+              "title": "How To Use This App"
             }
           }
         ]
@@ -170,10 +170,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Git Workflow.md",
-    "Trello Workflow.md",
-    "Project Procedure.md",
     "!How To Use/How To Use This App.md",
+    "Trello Workflow.md",
+    "README.md",
+    "Git Workflow.md",
+    "Project Procedure.md",
     "!Tags/developer sop.md",
     "!Tags/how to use.md",
     "Set Up Workstation.md",
